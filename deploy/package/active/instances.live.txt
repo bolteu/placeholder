@@ -1,1 +1,1 @@
-active-instance:4110
+active-instance:/data/pelias/placeholder/active:4110
