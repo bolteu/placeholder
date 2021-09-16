@@ -357,6 +357,7 @@ You can pull the latest stable image with
 
 ```bash
 $ docker pull pelias/placeholder
+
 ```
 
 ### Download custom image tags
